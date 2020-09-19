@@ -1,15 +1,37 @@
 {
   "DemandRequests": [
-{
-   "demandRequestID":1,
-   "userId":29,
-   "locationN":48.75958376,
-   "locationN":9.16500092,
-   "startDate":"2020-09-04",
-   "endDate":"2020-09-27",
-   "amount":8.65,
-   "type":"normal",
-   "chunkSize":"enormous"
-}
+    {
+      "demandRequestID": 1,
+      "userId": 29,
+      "locationN": 48.75958376,
+      "locationN": 9.16500092,
+      "startDate": "2020-09-04",
+      "endDate": "2020-09-27",
+      "amount": 8.65,
+      "type": "normal",
+      "chunkSize": "enormous"
+    },
+    {
+      "demandRequestID": 2,
+      "userId": 29,
+      "locationN": 48.81206377,
+      "locationN": 9.15470123,
+      "startDate": "2020-09-04",
+      "endDate": "2020-09-27",
+      "amount": 3.65,
+      "type": "normal",
+      "chunkSize": "enormous"
+    },
+    {
+      "demandRequestID": 3,
+      "userId": 29,
+      "locationN": 48.74079525,
+      "locationN": 9.30747986,
+      "startDate": "2020-09-04",
+      "endDate": "2020-09-27",
+      "amount": 4,
+      "type": "normal",
+      "chunkSize": "enormous"
+    }
   ]
 }
