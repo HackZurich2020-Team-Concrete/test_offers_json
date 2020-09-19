@@ -1,0 +1,15 @@
+{
+    "Open Offers": [
+        {
+          "offer ID": 1,
+          "user ID": 29,
+          "location N [decimal degrees]": 41.40338,
+          "location E [decimal degrees]":  2.17403,
+          "start date": "2020-09-04",
+          "end date": "2020-09-30",
+          "amount [metric tonns]": 4.65,
+          "type": "normal",
+          "chunk size": "enormous"
+        }
+      ]
+
