@@ -1,0 +1,31 @@
+{
+  "Logistic Offers": [
+    {
+      "demand request ID": 1,
+      "user ID": 29,
+      "start location N [decimal degrees]": 48.75958376,
+      "start location E [decimal degrees]": 9.16500092,
+      "end location N [decimal degrees]": 48.75958376,
+      "end location E [decimal degrees]": 9.16500092,
+      "start date": "2020-09-04",
+      "end date": "2020-09-27",
+      "trucks": [
+        {
+          "truck id": 1,
+          "freight capacity [metric tonns]": 7.2,
+          "operation cost [Euro/Km]": 4.87
+        },
+        {
+          "truck id": 2,
+          "freight capacity [metric tonns]": 7.2,
+          "operation cost [Euro/Km]": 4.87
+        },
+        {
+          "truck id": 3,
+          "freight capacity [metric tonns]": 3.7,
+          "operation cost [Euro/Km]": 2.87
+        }
+      ]
+    }
+  ]
+}

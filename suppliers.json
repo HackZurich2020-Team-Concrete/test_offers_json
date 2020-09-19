@@ -1,5 +1,5 @@
 {
-  "Open Supply Offers": [
+  "Supply Offers": [
     {
       "offer ID": 1,
       "user ID": 29,
@@ -9,7 +9,7 @@
       "end date": "2020-09-30",
       "amount [metric tonns]": 4.65,
       "type": "normal",
-      "chunk size": "enormous"
+      "chunk size": "ludacris"
     }
   ]
 }
