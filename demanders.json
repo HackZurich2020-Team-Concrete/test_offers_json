@@ -1,15 +1,15 @@
 {
-  "Demand Requests": [
-    {
-      "demand request ID": 1,
-      "user ID": 29,
-      "location N [decimal degrees]": 48.75958376,
-      "location E [decimal degrees]": 9.16500092,
-      "start date": "2020-09-04",
-      "end date": "2020-09-27",
-      "amount [metric tonns]": 8.65,
-      "type": "normal",
-      "chunk size": "enormous"
-    }
+  "DemandRequests": [
+{
+   "demandRequestID":1,
+   "userId":29,
+   "locationN":48.75958376,
+   "locationN":9.16500092,
+   "startDate":"2020-09-04",
+   "endDate":"2020-09-27",
+   "amount":8.65,
+   "type":"normal",
+   "chunkSize":"enormous"
+}
   ]
 }
