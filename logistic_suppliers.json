@@ -1,31 +1,30 @@
-{
-  "LogisticOffers": [
-    {
-      "logisticID": 1,
-      "user ID": 29,
-      "startLocationN": 48.75958376,
-      "startLocationE": 9.16500092,
-      "endLocationN": 48.75958376,
-      "endLocationE": 9.16500092,
-      "startDate": "2020-09-04",
-      "endDate": "2020-09-27",
-      "trucks": [
-        {
-          "truckId": 1,
-          "freightCapacity": 7.2,
-          "operationCost": 4.87
-        },
-        {
-          "truckId": 2,
-          "freightCapacity": 7.2,
-          "operationCost": 4.87
-        },
-        {
-          "truck id": 3,
-          "freightCapacity": 3.7,
-          "operationCost": 2.87
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "userId": 29,
+    "startLocationN": 48.75958376,
+    "startLocationE": 9.16500092,
+    "endLocationN": 48.75958376,
+    "endLocationE": 9.16500092,
+    "startDate": "2020-09-04",
+    "endDate": "2020-09-27",
+    "trucks": [
+      {
+        "truckId": 1,
+        "freightCapacity": 7.2,
+        "operationCost": 4.87
+      },
+      {
+        "truckId": 2,
+        "freightCapacity": 7.2,
+        "operationCost": 4.87
+      },
+      {
+        "truckId": 3,
+        "freightCapacity": 3.7,
+        "operationCost": 2.87
+      }
+    ],
+    "model": "logistic_supplier"
+  }
+]
